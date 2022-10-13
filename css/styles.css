@@ -1,0 +1,64 @@
+/* CSS GENERAL*/
+
+*{
+    color: rgb(0, 0, 0);
+    font-family: 'Quicksand', sans-serif;
+}
+
+.background_color{
+    background-color: rgba(17, 186, 116, 0.564);
+}
+
+/* CSS DE HEADER */ 
+
+.menu_header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+header div a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+header div ul li{
+    list-style: none;
+}
+
+header div{
+    padding-top: 5px;
+}
+
+.h1_header {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+/* CSS DE MAIN */ 
+
+main{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+main div h2{
+    font-size: 60px;
+    font-weight: 300;
+}
+
+main{
+    background-color: rgba(241, 245, 245, 0.832);
+}
+
+
+
+
+
+
+
+
+
+/* CSS DE FOOTER */ 
+
